@@ -1,7 +1,5 @@
 
----
-
-# Projeto Cronograma Data Lake
+# README - Projeto Cronograma Data Lake
 
 Este projeto gera um gráfico Gantt para visualizar o cronograma de um projeto especifico.
 
